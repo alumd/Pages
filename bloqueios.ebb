@@ -1,0 +1,9 @@
+{
+ "formato": "eben-bloqueios",
+ "dados": {
+  "serie": 1,
+  "emitida": "2026-11-11T02:44:03+00:00",
+  "bloqueios": []
+ },
+ "assinatura": "OBYqnrzO36SQOaV4dA6KvupxFLBdw195VvC8IhFsRQEnAcXR6LDzNu3Db0NIIY7mXlLGCC+BfzOk2Ln3dJ4+Ag=="
+}
